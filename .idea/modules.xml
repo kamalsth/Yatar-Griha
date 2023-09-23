@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD:.idea/modules.xml
+      <module fileurl="file://$PROJECT_DIR$/.idea/Yatra-Griha.iml" filepath="$PROJECT_DIR$/.idea/Yatra-Griha.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/.idea/backend.iml" filepath="$PROJECT_DIR$/.idea/backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/yatra-griha/yatra-griha.iml" filepath="$PROJECT_DIR$/yatra-griha/yatra-griha.iml" />
+>>>>>>> 521946fe7870b76cebff315d2e3daa6f3bc8545f:backend/.idea/modules.xml
     </modules>
   </component>
 </project>
